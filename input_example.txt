@@ -1,0 +1,12 @@
+5
+S->BC
+B->BC
+C->BC
+B->b
+C->c
+5
+bc
+bccc
+bbbc
+cb
+bbbccc
